@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{http://wavesurfer-js.org/}
   spec.description   = %q{Wavesurfer.js for the rails asset pipeline.}
-  spec.homepage      = "https://taylord.io"
+  spec.homepage      = "http://gdclifford.info/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

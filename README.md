@@ -1,6 +1,6 @@
 # Wavesurfer-rails
 
-[Wavesurfer-js](http://wavesurfer-js.org/)
+[Wavesurfer Homepage](http://wavesurfer-js.org/)
 
 ## Installation
 
