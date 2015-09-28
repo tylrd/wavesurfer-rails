@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mdaugherty6@gmail.com"]
 
   spec.summary       = %q{http://wavesurfer-js.org/}
-  spec.description   = %q{Wavesurfer.js for the rails asset pipeline.}
+  spec.description   = %q{Wavesurfer.js for the rails asset pipeline. http://wavesurfer-js.org/}
   spec.homepage      = "http://gdclifford.info/"
   spec.license       = "MIT"
 
