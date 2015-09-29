@@ -23,12 +23,12 @@ In `app/assets/javascripts/application.js` put the following:
 If you want the wavesurfer plugins, you can require them all individually:
 
 ```javascript
-//= require ws-plugins/wavesurfer.elan.js
-//= require ws-plugins/wavesurfer.microphone.js
-//= require ws-plugins/wavesurfer.minimap.js
-//= require ws-plugins/wavesurfer.regions.js
-//= require ws-plugins/wavesurfer.spectrogram.js
-//= require ws-plugins/wavesurfer.timeline.js
+//= require ws-plugins/wavesurfer.elan
+//= require ws-plugins/wavesurfer.microphone
+//= require ws-plugins/wavesurfer.minimap
+//= require ws-plugins/wavesurfer.regions
+//= require ws-plugins/wavesurfer.spectrogram
+//= require ws-plugins/wavesurfer.timeline
 ```
 
 Or require them all at once:
