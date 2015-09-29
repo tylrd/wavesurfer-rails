@@ -1,6 +1,6 @@
-//= require plugin/wavesurfer.elan.min.js
-//= require plugin/wavesurfer.microphone.min.js
-//= require plugin/wavesurfer.minimap.min.js
-//= require plugin/wavesurfer.regions.min.js
-//= require plugin/wavesurfer.spectrogram.min.js
-//= require plugin/wavesurfer.timeline.min.js
+//= require ws-plugins/wavesurfer.elan.js
+//= require ws-plugins/wavesurfer.microphone.js
+//= require ws-plugins/wavesurfer.minimap.js
+//= require ws-plugins/wavesurfer.regions.js
+//= require ws-plugins/wavesurfer.spectrogram.js
+//= require ws-plugins/wavesurfer.timeline.js
